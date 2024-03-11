@@ -1,0 +1,13 @@
+/* Variables for colours, font size and font family */
+:root{
+    --color-black: #070F2B;
+    --color-white: #f7f8fa;
+    --color-blue: #5356FF;
+    --color-aqua: #86fbfb;
+    --color-plum: #4b0d49;
+    --color-hotmag: #ff17e4;
+    --color-magenta: #e310cb;
+    --font-size: 1.3rem;
+    --font-mono: "Oxygen mono", monospace;
+    --font-sans: Oxygen, sans-serif;
+}
